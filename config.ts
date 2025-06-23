@@ -2,8 +2,8 @@ import { existsSync, readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 
 const config: BotConfig = {
-    token: 'TOKEN',                   // token
-    clientId: 'ID',                  // client id
+    token: 'MTM3Njk5MDkzOTE3NTcxNDg2Ng.Gl_5zw.bJ-MQ99tkGCe9rkmXXXO4kCb-bPRj9l6SRxf3g',                   // token
+    clientId: '1358052065150238850',                  // client id
     mongoUri: 'mongodb+',           // mongo uri
     defaultPrefix: '!',
     mainGuildId: 'ID',             // main guild id
